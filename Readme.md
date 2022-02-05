@@ -1,0 +1,1 @@
+This is a basic python program which splits the bill amount in 2 or more people. Additionally, there is an option for a Winner! If selected, winner won't have to pay anything and his/her share will be paid by the other users.
